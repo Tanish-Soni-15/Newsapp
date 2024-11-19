@@ -1,0 +1,33 @@
+.news-box{
+    width: 19rem;
+  border: 2px solid;
+  background-color: white;
+position: relative;
+z-index: -1;
+  padding-bottom: 14px;
+}
+.batch{
+  position: absolute;
+  background: #dc2626;
+  color: white;
+  padding: 1px;
+    padding-right: 1px;
+    padding-left: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 7px;
+  font-weight: 590;
+  right: -18px;
+  top: -13px;
+}
+img{
+   
+  width: 100%;
+  max-height: 12rem;
+  object-fit: cover;
+ 
+}
+img {
+    max-width: initial !important;
+    height: initial !important;
+  }

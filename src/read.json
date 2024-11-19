@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Consumer prices expected to have cooled further in June, bolstering hopes for Fed rate cuts - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/consumer-prices-expected-to-have-cooled-further-in-june-bolstering-hopes-for-fed-rate-cuts-144531331.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T10:10:18Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Bather rescued 80km from Japan beach after 36 hours - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcXFsMHo1eDE5ZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3FxbDB6NXgxOWVvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T10:05:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy",
+            "title": "NATO allies call China a ‘decisive enabler’ of Russia in Ukraine war as bloc eyes Asia security threats - CNN",
+            "description": "China is a “decisive enabler” of Russia’s war against Ukraine, NATO leaders said Wednesday, as the defense alliance hardens its stance on Beijing and the “systemic challenges” they say it poses to their countries’ security.",
+            "url": "https://www.cnn.com/2024/07/11/china/nato-china-russia-ukraine-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160839138.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-11T09:33:00Z",
+            "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nChina is a decisive enabler of Russias war ag… [+6943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sophie Kiderlin",
+            "title": "Apple reaches deal with EU regulators to open up mobile payments system to rivals - CNBC",
+            "description": "EU antitrust chief Margrethe Vestager said the European Commission accepted commitments from Apple to open access to its tap and go payments tech to rivals.",
+            "url": "https://www.cnbc.com/2024/07/11/apple-reaches-deal-with-eu-to-open-up-mobile-payments-system-to-rivals.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108004360-1720680507512-gettyimages-2159790791-AA_03072024_1758250.jpeg?v=1720680538&w=1920&h=1080",
+            "publishedAt": "2024-07-11T09:18:34Z",
+            "content": "EU antitrust regulators on Thursday accepted commitments from Apple to allow access to its tap and go payments technology to rivals, bringing an end to a four-year investigation.\r\n\"The commission has… [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sam Fossum, Peter Valdes-Dapena",
+            "title": "Biden administration announces a $1.7 billion plan to juice electric vehicles in America - CNN",
+            "description": "The White House on Thursday said it would hand out $1.7 billion to help convert shuttered or at-risk auto manufacturing and assembly facilities to make electric and hybrid vehicles.",
+            "url": "https://www.cnn.com/2024/07/11/business/biden-administration-ev-electric-vehicles-manufacturing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1232464249.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-11T09:00:00Z",
+            "content": "The White House on Thursday said it would hand out $1.7 billion to help convert closed-down or at-risk auto manufacturing and assembly facilities to make electric and hybrid vehicles.\r\nThe funding co… [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Rebecca Rosenberg",
+            "title": "Alec Baldwin 'Rust' shooting trial: Female-heavy jury may be more 'sympathetic' to defense, expert says - Fox News",
+            "description": "The jury in Alec Baldwin's involuntary manslaughter trial is predominantly made up of women, which could be a good thing for the actor, experts told Fox News Digital.",
+            "url": "https://www.foxnews.com/entertainment/alec-baldwin-rust-shooting-trial-female-heavy-jury-may-more-sympathetic-defense-expert-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Baldwin-Thumb-03.jpg",
+            "publishedAt": "2024-07-11T08:00:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+4312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 17 Pro Max Will Be First to Feature Three 48MP Camera Lenses - MacRumors",
+            "description": "Next year's iPhone 17 Pro Max will feature an upgraded 48-megapixel Tetraprism camera for enhanced photo quality and zoom functionality,...",
+            "url": "https://www.macrumors.com/2024/07/11/iphone-17-pro-max-48mp-telephoto/",
+            "urlToImage": "https://images.macrumors.com/t/40M7--iFgd50faQuk3Q2AYmHWi4=/1600x/article-new/2023/09/iPhone-15-Pro-Cameras.jpg",
+            "publishedAt": "2024-07-11T07:20:05Z",
+            "content": "Next year's iPhone 17 Pro Max will feature an upgraded 48-megapixel Tetraprism camera for enhanced photo quality and zoom functionality, according to Apple analyst Ming-Chi Kuo.\r\nIn his latest invest… [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Kyle Kucharski",
+            "title": "Every product Samsung unveiled at Unpacked July 2024: Galaxy Z Fold 6, Watch Ultra, Ring, more - ZDNet",
+            "description": "At Unpacked yesterday, Samsung unveiled several new products, including two foldable phones, smartwatches, earbuds, and a smart ring that competes with Oura.",
+            "url": "https://www.zdnet.com/article/every-product-samsung-unveiled-at-unpacked-july-2024-galaxy-z-fold-6-watch-ultra-ring-more/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/93f5c0dd5e74525ba73311820e94bcbbd919b3a0/2024/07/08/ee5c2e37-fc8f-489f-b605-0573092b4d70/dsc01195.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-11T07:00:00Z",
+            "content": "Kerry Wan/ZDNET\r\nSamsung just held its Galaxy Unpacked event, unveiling a host of exciting new wearables and two brand-new smartphones available as soon as later this month. As expected, artificial i… [+12462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Henry Bushnell",
+            "title": "USMNT coaching search: Top candidates to replace Gregg Berhalter - Yahoo Sports",
+            "description": "After firing Gregg Berhalter on Wednesday, U.S. Soccer will immediately begin the search for a new USMNT head coach. Here are 18 candidates who should be...",
+            "url": "https://sports.yahoo.com/usmnt-coaching-search-top-candidates-to-replace-gregg-berhalter-053550136.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iiZIkdLyZHvlg7jIB7prFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODg-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/f9346950-3f06-11ef-af83-4ca563c04af1",
+            "publishedAt": "2024-07-11T05:35:00Z",
+            "content": "U.S. Soccer fired men's national team coach Gregg Berhalter on Wednesday, and now, with a home World Cup less than two years away, it is back to square one: searching for a new USMNT head coach.\r\nThe… [+12020 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Tim Bontemps",
+            "title": "Team USA leans on D, tops Canada in Paris tuneup - ESPN",
+            "description": "Team USA's men's team showed some rust but also its defensive potential when it opened its Olympic tuneup schedule with an 86-72 exhibition win over Canada.",
+            "url": "https://www.espn.com/olympics/story/_/id/40537998/team-usa-tops-canada-exhibition-open-olympic-tune-up",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0711%2Fr1357255_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-11T05:13:00Z",
+            "content": "LAS VEGAS -- Team USA had plenty of miscues in its first dress rehearsal for the Olympics on Wednesday night. But after a comfortable 86-72 victory over Team Canada in front of a record-setting crowd… [+4506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "George Clooney calls for Joe Biden to quit presidential race - BBC.com",
+            "description": "Hollywood star joins growing list of donors and senior Democrats questioning president's fitness.",
+            "url": "https://www.bbc.com/news/articles/cy68gxw32zno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a599/live/c01b6c30-3eda-11ef-bc90-15318ac50ac3.jpg",
+            "publishedAt": "2024-07-11T04:48:12Z",
+            "content": "By Brandon Drenon and Bernd Debusmann, at the Nato summit, BBC News, Washington\r\nGeorge Clooney has issued a damning call for Joe Biden to quit the US presidential race, hours after senior Democrat N… [+6202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "David Clarey, Chris Ramirez, Drake Bentley",
+            "title": "Hyatt hotel operator fires employees as D'Vontaye Mitchell death being investigated as homicide - Milwaukee Journal Sentinel",
+            "description": "The security guards that held D'Vontaye Mitchell face down until he died outside a Hyatt hotel in downtown Milwaukee have been fired.",
+            "url": "https://www.jsonline.com/story/news/local/milwaukee/2024/07/10/hyatt-says-staff-involved-with-dvontaye-mitchells-death-should-be-fired-and-criminally-charged/74359629007/",
+            "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2024/07/02/PMJS/74281340007-hyatt-death-0108.JPG?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2024-07-11T04:33:48Z",
+            "content": "Several employees have been fired by the Hyatt hotel operator that manages the downtown Milwaukee hotel where D'Vontaye Mitchell died, who was held face down by security guards near the entrance to t… [+5491 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Axios",
+            "title": "Arkansas abortion amendment disqualified from ballot - Axios",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDI0LzA3LzEwL2Fya2Fuc2FzLWFib3J0aW9uLXBldGl0aW9uLWFtZW5kbWVudC1iYWxsb3TSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-11T04:33:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Michael Loria",
+            "title": "Are bullets on your grocery list? Ammo vending machines debut in grocery stores - USA TODAY",
+            "description": "American Rounds, an ammo vending machine company, has installed machines in stores in three states. Buyers have to show ID.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/07/10/12-gauge-ammo-vending-machines-debut-in-grocery-stores/74358419007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/11/USAT/74361396007-american-rounds.jpg?crop=1511,851,x0,y100&width=1511&height=851&format=pjpg&auto=webp",
+            "publishedAt": "2024-07-11T03:12:29Z",
+            "content": "Shoppers at select grocery stores around the South can pick up something new: ammunition dispensed from a high-tech vending machine that contains a plentiful assortment of 12-gauge shotgun shells and… [+4323 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Tim Bontemps",
+            "title": "Hill says it was Team USA's call on Kawhi, White - ESPN",
+            "description": "Executive director Grant Hill said the decision to send Kawhi Leonard home from training camp and replace him with Derrick White for the upcoming Olympics ultimately rested with Team USA.",
+            "url": "https://www.espn.com/olympics/basketball/story/_/id/40537576/team-usa-call-kawhi-leonard-derrick-white-grant-hill-says",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0417%2Fr1320172_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-11T02:49:00Z",
+            "content": "LAS VEGAS -- Team USA executive director Grant Hill said the decision to send LA Clippers forward Kawhi Leonard home from training camp and replace him with Boston Celtics guard Derrick White on the … [+5440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": null,
+            "title": "\"Last time you’re going to see me\": Ellen DeGeneres to \"disappear\" after Netflix special - Salon",
+            "description": "\"Last time you’re going to see me\": Ellen DeGeneres to \"disappear\" after Netflix special",
+            "url": "https://www.salon.com/2024/07/10/last-time-youre-going-to-see-me-ellen-degeneres-to-disappear-after-netflix-special/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/07/ellen-degeneres-1441969531jpg.jpg",
+            "publishedAt": "2024-07-11T01:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Love",
+            "title": "Video: Carl Bernstein reveals reporting on Chuck Schumer wanting a frank discussion with Joe Biden - CNN",
+            "description": "Journalist and author Carl Bernstein joins CNN’s Anderson Cooper to detail his reporting about how Senate majority leader Chuck Schumer (D-NY) wants to meet with President Joe Biden to discuss Biden’s candidacy in the 2024 election.",
+            "url": "https://www.cnn.com/2024/07/10/politics/video/carl-bernstein-chuck-schumer-biden-ac360-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240710-bernstein-schumer-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-11T01:22:43Z",
+            "content": "Journalist and author Carl Bernstein joins CNN's Anderson Cooper to detail his reporting about how Senate majority leader Chuck Schumer (D-NY) wants to meet with President Joe Biden to discuss Biden'… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christopher Cann, John Bacon, Jorge L. Ortiz, Thao Nguyen",
+            "title": "Heat drives Texans to sleep in cars as Beryl spins tornadoes in New York: Updates - USA TODAY",
+            "description": "Flood watches and warnings were issued Wednesday across parts of New Mexico, Illinois, Indiana, Michigan, New York, Vermont, New Hampshire and Maine.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/07/10/hurricane-beryl-texas-power-outages-flood-warnings/74348454007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/10/USAT/74359758007-berylfallen-tree.JPG?crop=1999,1125,x0,y199&width=1999&height=1125&format=pjpg&auto=webp",
+            "publishedAt": "2024-07-11T01:05:12Z",
+            "content": "Crystal Krest and her two children slept in their car on Tuesday night. It was the only place where they could get some cool air near their home in Tomball, Texas.\r\nAll the hotels in the city of 12,0… [+13019 chars]"
+        }
+    ]
+}
