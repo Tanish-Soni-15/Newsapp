@@ -19,10 +19,7 @@ const Box = (props) => {
       <h1 className='text-lg ml-2 mt-1 font-semibold'>{title}</h1>
       <p className=' ml-2 mb-2'>{des}</p>
       <p className=' ml-2 mb-2'>By {author?author:"unknown"} on {new Date(date).toGMTString()}</p>
-      <a href={url} >
-      <button className='btn ml-2'>
-      Read More
-      </button></a>
+     
 
     </div>
   )
