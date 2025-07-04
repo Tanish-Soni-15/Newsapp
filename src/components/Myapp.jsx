@@ -11,7 +11,9 @@ const Myapp = (props) => {
   async function renderdata() {
     let a = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=6a9bee3a9f7d4f12a0d5a1664b26d48f&page=${page}&pageSize=${props.pageSize}`);
     // let a =await fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6a9bee3a9f7d4f12a0d5a1664b26d48f');
+    console.log(a);
     let b = await a.json();
+    console.log(b);
     setnews(b.articles);
     settotalnews(b.totalResults);
     setloading(false);
