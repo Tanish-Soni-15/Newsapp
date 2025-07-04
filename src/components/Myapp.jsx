@@ -40,7 +40,7 @@ const Myapp = (props) => {
       </div>
       }
       <div className="flex justify-between  flex-wrap gap-7 ">
-        {!loading && news.map(element => {
+        {!loading && news && news.map(element => {
           return <Box key={element.url} title={element.title ? element.title.slice(0, 30) + "..." : ""} des={element.description ? element.description.slice(0, 150) + "..." : ""} imageurl={element.urlToImage} url={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
         })}
       </div>
