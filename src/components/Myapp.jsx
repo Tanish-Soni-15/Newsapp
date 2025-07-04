@@ -9,7 +9,7 @@ const Myapp = (props) => {
   const [loading, setloading] = useState(true);
   document.title=`WORLDNEWS - ${props.category.toUpperCase()}`;
   async function renderdata() {
-    let a = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=bf94da569b814dabbcdc074f24b4b29f&page=${page}&pageSize=${props.pageSize}`);
+    let a = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=6a9bee3a9f7d4f12a0d5a1664b26d48f&page=${page}&pageSize=${props.pageSize}`);
     // let a =await fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6a9bee3a9f7d4f12a0d5a1664b26d48f');
     let b = await a.json();
     setnews(b.articles);
